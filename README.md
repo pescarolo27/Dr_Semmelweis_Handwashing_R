@@ -4,7 +4,5 @@
 
 You will reanalyze the data that made Semmelweis discover the importance of handwashing and its impact on the hospital. The data is stored as two CSV files: `yearly_deaths_by_clinic.csv` & `monthly_deaths.csv`.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project. 
+The project was done in June, 2025. Machine learning was not applied in this project. 
 This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
